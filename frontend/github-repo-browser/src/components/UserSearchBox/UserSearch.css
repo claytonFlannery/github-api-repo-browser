@@ -1,0 +1,21 @@
+.app-buttons{
+
+}
+
+.app-data{
+    padding: 10px;
+}
+
+.app_form{
+    border: 1px solid lightgrey;
+    background-color:lightgrey;
+}
+
+.app_formCenter{
+    padding:20px;
+    display:flex;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction:column;
+}
